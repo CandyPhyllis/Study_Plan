@@ -1,6 +1,6 @@
-# Exam #1: Study Plan
+# Project Name: Study Plan
 
-## Student: s273733 ZHANG YUEXIN
+## Author：ZHANG YUEXIN
 
 ## React Client Application Routes
 
